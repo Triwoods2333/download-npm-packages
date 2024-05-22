@@ -1,0 +1,24 @@
+{
+    "db_name": "registry",
+    "engine": "couch_bt_engine",
+    "doc_count": 3024638,
+    "doc_del_count": 1738261,
+    "update_seq": 31784753,
+    "purge_seq": 602038,
+    "compact_running": true,
+    "sizes": {
+        "active": 168822148083,
+        "external": 199374689103,
+        "file": 222165377292
+    },
+    "disk_size": 222165377292,
+    "data_size": 168822148083,
+    "other": {
+        "data_size": 199374689103
+    },
+    "instance_start_time": "1716195123080626",
+    "disk_format_version": 7,
+    "committed_update_seq": 31784753,
+    "compacted_seq": 31329758,
+    "uuid": "e03bbc377a13aa48a8fb748146cbe7e3"
+}
